@@ -24,14 +24,14 @@
 ### 方法一：在线安装（推荐）
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/proxy-chain-deploy/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Colorfulshadow/proxy-chain-deploy/main/install.sh)
 ```
 
 ### 方法二：手动安装
 
 1. 下载项目文件
 ```bash
-git clone https://github.com/YOUR_USERNAME/proxy-chain-deploy.git
+git clone https://github.com/Colorfulshadow/proxy-chain-deploy.git
 cd proxy-chain-deploy
 chmod +x *.sh
 ```
