@@ -114,9 +114,6 @@ net.ipv4.udp_wmem_min = 8192
 # 其他优化
 fs.file-max = 1000000
 fs.inotify.max_user_instances = 8192
-net.ipv6.conf.all.disable_ipv6 = 1
-net.ipv6.conf.default.disable_ipv6 = 1
-net.ipv6.conf.lo.disable_ipv6 = 1
 EOF
 
     # 应用配置
